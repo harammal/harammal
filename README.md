@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Hassan
 
 **- 🔭 Working on:** Git and GitHub  
-**- 🌱 Currently learning:** Linux Environment  
+**- 🌱 Currently learning:** Linux Environment, UNIX OS, Java  
 **- 📚 Interested in:** Linux, Open Source  
   
 **Languages:** C, C++, C#, Assembly, Matlab, SQL, HTML, CSS  
