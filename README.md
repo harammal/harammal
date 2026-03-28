@@ -5,4 +5,4 @@
 **- 📚 Interested in:** Linux, Open Source  
   
 **Languages:** C, C++, C#, Assembly, Matlab, SQL, HTML, CSS  
-**Tools:** Linux, Bash, VS Code, Git, Markdown
+**Tools:** Linux, Bash, VS Code, Git, Markdown, Notion
