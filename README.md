@@ -13,3 +13,9 @@
 | **Tools**     | [![Tools](https://skillicons.dev/icons?i=linux,bash,git,vscode,androidstudio,clion,idea,md,notion)](https://skillicons.dev) |
 
 <!-- Icons: skillicons.dev + Shields.io (flat-square style) for Assembly/SQL -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harammal/harammal/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harammal/harammal/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/harammal/harammal/output/github-snake.svg">
+</picture>
