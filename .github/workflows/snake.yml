@@ -14,7 +14,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # QUI MODIFICHI IL COLORE (es: 'orange', 'red', '#ff0000', 'cyan')
+          # color set up
           color_snake: 'orange' 
           outputs: |
             dist/github-snake.svg
