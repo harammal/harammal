@@ -14,6 +14,7 @@
 
 <!-- Icons: skillicons.dev + Shields.io (flat-square style) for Assembly/SQL -->
 
+<!-- snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harammal/harammal/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harammal/harammal/output/github-snake.svg">
