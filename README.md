@@ -1,8 +1,16 @@
-## Hi there 👋, I'm Hassan
+```bash
+harammal@desktop:~/harammal/README.md$ echo $GREETINGS
+Hi there, I am Hassan
 
-- 🔭 **Working on:** Android Development
-- 🌱 **Currently learning:** Linux Environment, UNIX OS, Java
-- 📚 **Interested in:** Linux, Open Source
+harammal@desktop:~/harammal/README.md$ cat current_status.txt
+Working on: Android Development
+Learning: Linux, UNIX, Java
+Interested in: Open Source, Linux Environment
+
+harammal@desktop:~/harammal/README.md$ ./setup.sh
+> Loading skills_and_tools... OK
+> Loading snake.yml... OK
+```
 
 ---
 
