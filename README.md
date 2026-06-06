@@ -1,4 +1,4 @@
-<iframe src="https://asciinema.org/a/M9nrMlfeltCztg2G" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+![Terminal Demo](./terminal-demo.gif)
 
 ---
 
