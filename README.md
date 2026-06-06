@@ -1,16 +1,4 @@
-```bash
-harammal@desktop:~/harammal/README.md$ echo $GREETINGS
-Hi there, I am Hassan
-
-harammal@desktop:~/harammal/README.md$ cat current_status.txt
-Working on: Android Development
-Learning: Linux, UNIX, Java
-Interested in: Open Source, Linux Environment
-
-harammal@desktop:~/harammal/README.md$ ./setup.sh
-> Loading skills_and_tools... OK
-> Loading snake.yml... OK
-```
+<script id="asciicast-M9nrMlfeltCztg2G" src="https://asciinema.org/a/M9nrMlfeltCztg2G.js" async></script>
 
 ---
 
