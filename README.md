@@ -1,4 +1,4 @@
-<script id="asciicast-M9nrMlfeltCztg2G" src="https://asciinema.org/a/M9nrMlfeltCztg2G.js" async></script>
+<iframe src="https://asciinema.org/a/M9nrMlfeltCztg2G" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
 
 ---
 
